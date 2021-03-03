@@ -28,7 +28,7 @@
 ### The Easy Way
 
 Heroku Support removed temporarily!! Dont deploy, You'll get ban :(
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/coderboy1952/leecher)
 ### The Legacy Way
 
 Simply clone the repository and run the main file:
